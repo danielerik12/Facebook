@@ -54,6 +54,10 @@ ____
 |_| \_\\__,_|_| |_|
   $ python fb.py
 
-# Buka Link Ini Dulu
+# Atau Download File Di sini
+
+  https://www.mediafire.com/download/4fcacobinocyj4a
+
+# Atau Ini Link alasan nya
 
   https://github.com/danielerik12/Facebook/blob/main/Alasan%20Installing%20Ini
