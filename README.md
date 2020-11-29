@@ -53,3 +53,7 @@ ____
 |  _ <| |_| | | | |
 |_| \_\\__,_|_| |_|
   $ python fb.py
+
+# Buka Link Ini Dulu
+
+  https://github.com/danielerik12/Facebook/blob/main/Alasan%20Installing%20Ini
