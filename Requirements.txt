@@ -1,4 +1,3 @@
-Mr_RB
 requests
 tqdm
 datetime
