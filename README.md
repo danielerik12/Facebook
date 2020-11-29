@@ -58,6 +58,6 @@ ____
 
   https://www.mediafire.com/download/4fcacobinocyj4a
 
-# Atau Ini Link alasan nya
+# Link Cara Download Script INI ☠☠☠
 
-  https://github.com/danielerik12/Facebook/blob/main/Alasan%20Installing%20Ini
+  https://github.com/danielerik12/Facebook/blob/main/Script%20Ya
